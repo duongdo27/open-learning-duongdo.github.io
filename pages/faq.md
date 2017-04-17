@@ -1,6 +1,7 @@
 # FAQ
 
 ## General Internship Information
+
 *Q: What will I be working on during this internship?*
 OLE virtual interns will be helping develop OLE’s BeLL (Basic e-Learning Library) software. The BeLL is a virtual library that is deployed internationally to children in countries that typically do not have access to educational resources.
 
@@ -27,7 +28,9 @@ To finish the initial steps, you need to make a **minimum** of three issues and 
 
 *Q: How long do I have to complete these steps?*
 There is no official deadline, work on your own time. However, please note that most people who continued into the internship program completed the steps within 7-8 days. 
+
 ## Technical Issues and Questions
+
 *Q: What is the purpose of nations and communities, and how do they work together?*
 We use the nation/community infrastructure because we often deploy our software in places without internet. Nations are the service sitting in the cloud (which are connected to the internet). Communities, which run locally on Raspberry Pi’s and/or laptops, are run on an *intranet* but are most of the time not connected to the *internet*. Because nations are connected to the internet, they allow a connection process between us (with internet) and users on communities (without internet). To sync with a nation, however, a community needs to be connected to the internet so that information can be sent in both directions.
 
@@ -90,7 +93,9 @@ vagrant up
 
 
 ## Helpful Links
+
 #### *GitHub and Markdown*
+
 - [GitHub and Markdown Short Tutorials](https://guides.github.com/)
 - [GitHub Help](https://help.github.com/categories/search/)
 - [Git Pro (Book)](https://git-scm.com/book/en/v2)
@@ -100,13 +105,18 @@ vagrant up
 - [Markdown Cheat Sheet (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 - [Markdown Editor](https://jbt.github.io/markdown-editor/)
 - [Vi Cheat Sheet (JPG)](https://www.shell-tips.com/sheets/vi_help_sheet.jpg)
+
 #### *VirtualBox*
+
 - [VirtualBox First Steps (Manual)](https://www.virtualbox.org/manual/ch01.html)
+
 #### *Vagrant*
+
 - [Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
 - [Vagrant Tutorial](https://scotch.io/tutorials/get-vagrant-up-and-running-in-no-time)
 
 ## Helpful Videos
+
 - [GitHub & Git Foundations (Playlist)](https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM)
 - [Shorter Git/GitHub Tutorial (Playlist)](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
 - [Mastering Markdown (Playlist)](https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3)
